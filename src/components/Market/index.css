@@ -1,0 +1,22 @@
+.marketlink:hover{
+    cursor:pointer
+}
+.markethead{
+    font-size:1.3rem;
+}
+.action:hover{
+    color: rosybrown;
+}
+.right{
+    float: right;
+}
+/* .flourish-chart{
+    height:1000px
+} */
+.graph{
+    height: 35vh;
+    margin-bottom: 5vh;
+}
+.btn-group{
+    margin-bottom: 1rem;
+}
